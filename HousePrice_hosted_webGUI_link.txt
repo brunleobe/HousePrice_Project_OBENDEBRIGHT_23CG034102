@@ -1,0 +1,6 @@
+Name: OBENDE BRIGHT
+Matric Number: 23CG034102
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method Used: Joblib
+Live URL: 
+GitHub Repository Link: https://github.com/brunleobe/HousePrice_Project_OBENDEBRIGHT_23CG034102
